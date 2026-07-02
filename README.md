@@ -1,1 +1,1 @@
-File Ruch_robota.png shows movement of robot through 20 positions visualazed in 4D space. File Wmath.exe is the 6D to 4D converter developed based on macro.
+File Wmath.exe is the 6D to 4D numeric data converter developed based on macro. File Ruch_robota.png shows movement of robot through 20 positions visualazed in 4D space used as an example of dimentional reduction.
